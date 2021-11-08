@@ -1,0 +1,7 @@
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPNov08\TurnurileDinHanoi\TurnurileDinHanoi\bin\Debug\TurnurileDinHanoi.exe.config
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPNov08\TurnurileDinHanoi\TurnurileDinHanoi\bin\Debug\TurnurileDinHanoi.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPNov08\TurnurileDinHanoi\TurnurileDinHanoi\bin\Debug\TurnurileDinHanoi.pdb
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPNov08\TurnurileDinHanoi\TurnurileDinHanoi\obj\Debug\TurnurileDinHanoi.csproj.AssemblyReference.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPNov08\TurnurileDinHanoi\TurnurileDinHanoi\obj\Debug\TurnurileDinHanoi.csproj.CoreCompileInputs.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPNov08\TurnurileDinHanoi\TurnurileDinHanoi\obj\Debug\TurnurileDinHanoi.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPNov08\TurnurileDinHanoi\TurnurileDinHanoi\obj\Debug\TurnurileDinHanoi.pdb
