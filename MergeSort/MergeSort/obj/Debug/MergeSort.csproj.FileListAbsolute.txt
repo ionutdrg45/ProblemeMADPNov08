@@ -1,0 +1,7 @@
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPNov08\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPNov08\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPNov08\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPNov08\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.AssemblyReference.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPNov08\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPNov08\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+D:\Documents\facultate_cursuri\anul2\sem1\metode avansate de programare LABORATOR\laborator\ProblemeMADPNov08\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
